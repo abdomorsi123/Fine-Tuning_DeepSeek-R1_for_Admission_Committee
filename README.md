@@ -110,5 +110,9 @@ This system is intended **only as a research prototype and decision-support tool
 Final admission decisions must always be made by qualified human committee members.
 
 ---
+
+## Author
+
+**Abdelrahman Elsisy**  
 MSc Artificial Intelligence — THWS  
 Junior Machine Learning Engineer / Data Scientist
